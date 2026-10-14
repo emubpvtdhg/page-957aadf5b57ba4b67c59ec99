@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c9e143ab8bb968bc23bc03b1",
+  "owner": "emubpvtdhg",
+  "repo": "page-957aadf5b57ba4b67c59ec99",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "957aadf5b57ba4b67c59ec99",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "460dcb951549c515c8f086a3f7a8f12005b9c7b09f277322ced3ad8b2789881f",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐说明 VPN 与网络加速订阅如何选择，涵盖使用场景、客户端下载、连接步骤和基础版、旗舰版、团队版方案。",
+          "AI_DESCRIPTION": "机场推荐说明 VPN 与网络加速订阅如何选择，涵盖使用场景、客户端下载、连接步骤和基础版、旗舰版、团队版方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml{overflow-x:hidden}\nbody{margin:0;background:#07182c;color:#e7f2f8;font-family:system-ui,-apple-system,\"Segoe UI\",\"PingFang SC\",\"Noto Sans SC\",sans-serif;font-size:17px;line-height:1.7}\nmain{max-width:880px;margin:0 auto;padding:20px 16px 56px}\nnav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}\nnav a{color:#04202a;background:#1ec8d8;text-decoration:none;font-weight:700;font-size:15px;padding:8px 10px;border-radius:8px}\nh1{font-size:1.8rem;line-height:1.3;margin:0 0 8px;color:#f7fcff}\n.lead{margin:0 0 12px;color:#d5e6f2}\nh2{font-size:1.35rem;line-height:1.35;margin:34px 0 12px;padding-left:10px;border-left:4px solid #1ec8d8;color:#8eecf6}\nh3{font-size:1.08rem;line-height:1.4;margin:0 0 8px;color:#e9fbff}\np{margin:0 0 12px}\nul,ol{margin:0 0 12px;padding-left:1.2em}\nli{margin:0 0 6px}\na{color:#7eebf5}\n.card,.plan,.client{background:#0e2a4a;border:1px solid #1d4e73;border-radius:12px;padding:14px;margin:0 0 12px}\n.emphasis{background:#0b3148;border:1px solid #1ec8d8}\n.tag{display:inline-block;margin:0 0 8px;padding:2px 8px;border-radius:999px;background:#1ec8d8;color:#04202a;font-size:14px;font-weight:700}\n.price{font-size:1.45rem;font-weight:800;color:#f7fcff;margin:0 0 4px}\n.annual{color:#b7e7ef;margin:0 0 8px}\n.featured{border-color:#1ec8d8;box-shadow:inset 0 0 0 1px #1ec8d8}\n.steps{list-style:none;margin:0;padding:0;counter-reset:step}\n.steps li{position:relative;margin:0 0 12px;padding:12px 12px 12px 56px;background:#0e2a4a;border:1px solid #1d4e73;border-radius:12px}\n.steps li::before{content:counter(step);counter-increment:step;position:absolute;left:12px;top:12px;width:30px;height:30px;border-radius:50%;background:#1ec8d8;color:#04202a;font-weight:800;line-height:30px;text-align:center}\ndetails{background:#0e2a4a;border:1px solid #1d4e73;border-radius:12px;padding:12px 14px;margin:0 0 10px}\nsummary{font-weight:750;cursor:pointer;color:#f7fcff}\ndetails p{margin:8px 0 0}\n.note{font-size:15px;color:#c5d8e6}\n</style>\n\n\n<main>\n<nav>\n<a href=\"#about\">简介</a>\n<a href=\"#scenes\">场景</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#steps\">步骤</a>\n<a href=\"#plans\">方案</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<h1>机场推荐</h1>\n<p class=\"lead\">机场推荐把 VPN 订阅、网络加速和客户端选择放在同一页说明，方便按设备与用量完成官网下载前的判断。</p>\n<h2 id=\"about\">品牌简介</h2>\n<p>机场推荐是面向个人与小团队的订阅式网络加速服务。它用套餐区分流量、同时在线设备和线路类型，而不是用含糊的“无限加速”代替说明。基础版适合轻量浏览，旗舰版覆盖流媒体与游戏优化，团队版面向多人共用和定制路由。</p>\n<p>本页只解释如何选择客户端、如何按步骤导入订阅，以及三档价格对应的能力。连接质量会受本地网络、时段和所选线路影响，页面不把个别测速当成普遍承诺。</p>\n<h2 id=\"scenes\">使用场景</h2>\n<div class=\"card\">\n<h3>跨境办公与学习</h3>\n<p>需要稳定访问境外资料、云文档或远程会议时，先按同时在线设备数选套餐，再在常用电脑上安装客户端。基础版支持 3 台设备，适合手机加两台电脑的组合。</p>\n</div>\n<div class=\"card\">\n<h3>流媒体观看</h3>\n<p>基础版提供基础流媒体解锁；旗舰版写明全节点原生流媒体解锁。若家庭里有多人同时观看，应同时核对月流量，而不是只看解锁范围。</p>\n</div>\n<div class=\"card\">\n<h3>游戏延迟优化</h3>\n<p>旗舰版包含 IPLC 专线游戏加速优化。它针对的是套餐内的游戏线路，不表示所有游戏区服都会得到同样结果。对延迟敏感时，优先在旗舰版与团队版之间比较带宽和设备数。</p>\n</div>\n<div class=\"card\">\n<h3>小团队共用</h3>\n<p>团队版提供每月 1000GB、20 台设备、VIP 高带宽节点、企业定制路由和专属客户经理。适合工作室集中管理订阅，而不是把个人旗舰账号分给很多人。</p>\n</div>\n<h2 id=\"clients\">客户端选择</h2>\n<p class=\"emphasis card\">客户端是本页重点。先确定主力设备，再下载对应客户端；不要在手机、电脑和路由器上混用互不兼容的订阅格式。</p>\n<div class=\"client\">\n<h3>Windows 与 macOS</h3>\n<p>适合长时间办公、下载资料和多窗口浏览。桌面端便于查看当前节点、流量和分流规则。一台主力电脑建议作为第一台绑定设备，确认可用后再添加其他设备。</p>\n<p><a href=\"#download\">官网下载说明</a></p>\n</div>\n<div class=\"client\">\n<h3>Android 与 iOS</h3>\n<p>适合通勤和临时查阅。手机端占用一台设备名额，系统省电策略可能在后台断开连接。需要长期挂机时，改用桌面端或路由端更合适。</p>\n<p><a href=\"#download\">官网下载说明</a></p>\n</div>\n<div class=\"client\">\n<h3>路由器</h3>\n<p>适合让家里多台设备共用同一订阅，但路由端通常只算方案里的一台在线设备，具体以客户端实际占用为准。只有团队版写明支持企业定制路由，普通家庭路由仍应先确认固件能否导入订阅。</p>\n<p><a href=\"#steps\">查看导入步骤</a></p>\n</div>\n<div class=\"card\" id=\"download\">\n<h3>官网下载入口</h3>\n<p>安装包以本页客户端说明为准。请从上方对应系统进入，不使用来路不明的第三方镜像。本页链接均为站内锚点，不跳转到外部地址，也不代收账号密码。</p>\n</div>\n<h2 id=\"steps\">操作说明</h2>\n<ol class=\"steps\">\n<li><h3>核对用量与设备</h3><p>列出经常同时在线的手机、电脑和路由。3 台以内且月流量约 100GB，看基础版；需要流媒体全节点或游戏专线，看旗舰版；20 台设备或定制路由，看团队版。</p></li>\n<li><h3>选定订阅周期</h3><p>三档都提供月付和年付。年付价格分别为 ¥150/年、¥350/年、¥850/年。先用月付验证自己的网络环境，再决定是否改年付。</p></li>\n<li><h3>按系统准备客户端</h3><p>回到客户端选择，只安装与当前系统匹配的一个客户端。安装后先不要导入陌生配置，只使用账户内给出的订阅信息。</p></li>\n<li><h3>导入订阅并连接</h3><p>在客户端的订阅或配置入口粘贴账户提供的订阅内容，更新节点后手动选择一条线路并连接。连接成功后再打开需要访问的网站或应用，避免同时开启多个同类代理。</p></li>\n<li><h3>检查流量、设备与线路</h3><p>在客户端查看剩余流量和在线设备。基础版是普通线路节点池，旗舰版包含流媒体解锁与 IPLC 游戏优化，团队版使用 VIP 高带宽节点。超出设备数时，先退出不常用设备再重试。</p></li>\n</ol>\n<h2 id=\"plans\">订阅方案</h2>\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<p><a href=\"#steps\">按此方案查看步骤</a></p>\n</article>\n<article class=\"plan featured\">\n<span class=\"tag\">主推</span>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<p><a href=\"#clients\">先选择客户端</a></p>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<p><a href=\"#scenes\">对照团队场景</a></p>\n</article>\n<p class=\"note\">价格与功能以上列三档为准。工单、客户经理和定制路由只属于对应套餐，不自动包含在更低档中。</p>\n<h2 id=\"faq\">常见问题</h2>\n<details>\n<summary>机场推荐和其他加速器页面有什么不同？</summary>\n<p>机场推荐把订阅档位、客户端和操作顺序写在一起。比较时看流量、设备数和线路类型，而不是只看“VPN”或“梯子”这几个词。</p>\n</details>\n<details>\n<summary>应该先下载客户端还是先选套餐？</summary>\n<p>先选套餐。设备数和流量决定基础版、旗舰版或团队版；客户端只负责在选定系统上导入订阅。装错系统的客户端不能增加可用设备名额。</p>\n</details>\n<details>\n<summary>官网下载为什么只用页面锚点？</summary>\n<p>为避免把安装包指向无法核验的外部地址，本页下载入口留在客户端说明处。获取安装包时以账户内的官方下载说明为准，不要安装来源不清的修改版。</p>\n</details>\n<details>\n<summary>旗舰版的流媒体和游戏优化是否包含在基础版里？</summary>\n<p>不包含。基础版是基础流媒体解锁和普通线路节点池。全节点原生流媒体解锁、IPLC 专线游戏加速优化和 7x24 优先工单只写在旗舰版中。</p>\n</details>\n<details>\n<summary>流量用完或设备超限会怎样？</summary>\n<p>月流量按套餐重置前不能当成无限额度使用。设备超过 3、5 或 20 台时，新的设备会无法同时在线，需要退出旧设备或升级到更高档。</p>\n</details>\n<details>\n<summary>团队版的定制路由是否等于提供远程控制？</summary>\n<p>不是。定制路由指按团队版约定调整订阅和路由需求，并由专属客户经理沟通。它不包含对他人网络的未经授权接入，也不代替企业自己的安全策略。</p>\n</details>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "f7b2de8dda768f7970d7236b32d6d1738219ad9ccdc788a192facc3de82c666a",
+          "seo": {
+            "title": "机场推荐官网｜VPN 网络加速器与客户端下载指南",
+            "keywords": "机场推荐,机场推荐VPN,网络加速,加速器,梯子,机场订阅,客户端下载,官网下载",
+            "description": "机场推荐说明 VPN 与网络加速订阅如何选择，涵盖使用场景、客户端下载、连接步骤和基础版、旗舰版、团队版方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qjnfgy.cn",
+    "host": "p-ec9696a131.qjnfgy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1c66023cb24c33a538848dd50f6c668881506603a8d8921fdcb3ca3dffdd0ea5",
+    "sitemap.xml": "7b7dc32d22474fcb97cd3bcd443a72cd5e046eff0c75945aadcc13c324bcebad",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7e873fad8b1e668e744b6b9f8abe6efadacc445d7de1c55c8d744d4cc1a606e3",
+    "robots.txt": "29dbe3ac7d70e58a2ae55d21f7ab58c3338fbb7ff39354894ce643f5b9a6335c",
+    "9ef425581a3813173ab0792f1b01c88c.txt": "faddb9bda2ac6ab808d46cacdf2340cdf0185b00be0530e102867b8d841185ac"
+  },
+  "revision": "5088a276eef27b6ec1c6ec23110f3750e3300db6da889972284f746eadb8ac6b"
+}
